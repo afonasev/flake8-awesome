@@ -32,6 +32,7 @@ pip install flake8 flake8-builtins flake8-comprehensions flake8-eradicate # etc.
 * flake8-logging-format
 * flake8-print
 * flake8-pytest
+* flake8-pytest-style
 * flake8-return
 * pep8-naming
 
@@ -40,6 +41,10 @@ pip install flake8 flake8-builtins flake8-comprehensions flake8-eradicate # etc.
 MIT
 
 ## Change Log
+
+### 1.2.0 - 2019.06.10
+
+* add flake8-pytest-style
 
 ### 1.0.0 - 2019.04.01
 
