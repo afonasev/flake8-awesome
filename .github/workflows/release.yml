@@ -1,0 +1,28 @@
+name: release
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+jobs:
+  publish-to-pypi:
+    runs-on: ubuntu-18.04
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.8.3
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8.3
+
+    - name: Set up Poetry
+      uses: dschep/install-poetry-action@v1.3
+      with:
+        version: 1.0.9
+
+    - name: Build and publish to pypi
+      run: |
+        poetry config pypi-token.pypi ${{ secrets.PYPI_TOKEN }}
+        poetry publish --build

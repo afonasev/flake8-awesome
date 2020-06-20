@@ -1,0 +1,12 @@
+name: set-labels
+
+on: pull_request
+
+jobs:
+  set-labels:
+    runs-on: ubuntu-18.04
+
+    steps:
+      - uses: actions/labeler@v2
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}

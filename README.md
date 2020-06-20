@@ -35,27 +35,3 @@ pip install flake8 flake8-builtins flake8-comprehensions flake8-eradicate # etc.
 * flake8-pytest-style
 * flake8-return
 * pep8-naming
-
-## License
-
-MIT
-
-## Change Log
-
-### 1.2.0 - 2019.06.10
-
-* add flake8-pytest-style
-
-### 1.0.0 - 2019.04.01
-
-* add flake8-breakpoint
-* add flake8-print
-
-### 0.2.0 - 2019.02.26
-
-* add flake8-return
-* remove flake8-pie flake8-quotes
-
-### 0.1.0
-
-* initial
