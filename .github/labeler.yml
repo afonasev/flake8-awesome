@@ -1,0 +1,6 @@
+
+documentation:
+  - "README.md"
+
+dependencies:
+  - "poetry.lock"
