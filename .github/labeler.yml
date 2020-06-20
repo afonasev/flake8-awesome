@@ -3,4 +3,4 @@ documentation:
   - "README.md"
 
 dependencies:
-  - "poetry.lock"
+  - "pyproject.toml"
