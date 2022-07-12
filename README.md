@@ -1,16 +1,16 @@
-# flake8-awesome
+# flake8-aggressive
 
-[![pypi](https://badge.fury.io/py/flake8-awesome.svg)](https://pypi.org/project/flake8-awesome)
-[![Python: 3.6+](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://pypi.org/project/flake8-awesome)
-[![Downloads](https://img.shields.io/pypi/dm/flake8-awesome.svg)](https://pypistats.org/packages/flake8-awesome)
+[![pypi](https://badge.fury.io/py/flake8-aggressive.svg)](https://pypi.org/project/flake8-awesome)
+[![Python: 3.6+](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://pypi.org/project/flake8-aggressive)
+[![Downloads](https://img.shields.io/pypi/dm/flake8-awesome.svg)](https://pypistats.org/packages/flake8-aggressive)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://en.wikipedia.org/wiki/MIT_License)
 
-Flake8 awesome plugins pack.
+Flake8 aggressive plugins pack.
 
 ## Installation
 
 ```bash
-pip install flake8-awesome
+pip install flake8-aggressive
 ```
 
 vs
