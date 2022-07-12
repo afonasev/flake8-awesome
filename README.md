@@ -39,6 +39,8 @@ show-source = true
 
 ## List of plugins
 
+### flake8-awesome
+
 * flake8-annotations-complexity
 * flake8-bandit
 * flake8-breakpoint
@@ -56,3 +58,27 @@ show-source = true
 * flake8-requirements
 * flake8-return
 * pep8-naming
+
+### flake8-aggressive
+
+* pylint
+* flakeheaven
+* darglint
+* flake8-2020
+* flake8-absolute-import
+* flake8-annotations
+* flake8-blind-except
+* flake8-broken-line
+* flake8-class-attributes-order
+* flake8-datetimez
+* flake8-debugger
+* flake8-executable
+* flake8-fixme
+* flake8-no-implicit-concat
+* flake8-pep3101
+* flake8-raise
+* flake8-simplify
+* flake8-strftime
+* flake8-string-format
+* flake8-super
+* flake8-use-pathlib
