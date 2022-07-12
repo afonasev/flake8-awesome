@@ -5,7 +5,7 @@
 [![Downloads](https://img.shields.io/pypi/dm/flake8-awesome.svg)](https://pypistats.org/packages/flake8-aggressive)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://en.wikipedia.org/wiki/MIT_License)
 
-Flake8 aggressive plugins pack. This is a fork of the very awesome flake8-awesome plugins pack. This one is intended to
+Flake8 aggressive plugins pack. This is a fork of the very awesome [flake8-awesome](https://github.com/afonasev/flake8-awesome) plugins pack. This one is intended to
 include a lot more plugins.
 
 ## Installation
