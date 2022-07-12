@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "flake8-awesome"
-version = "1.3.0"
-description = "Flake8 awesome plugins pack"
-authors = ["Afonasev Evgeniy <ea.afonasev@gmail.com>"]
+name = "flake8-aggressive"
+version = "1.0.0"
+description = "Flake8 aggressive plugins pack"
+authors = ["Austin Page <jaustinpage@gmail.com>"]
 license = "MIT"
 readme = 'README.md'
-repository = "https://github.com/afonasev/flake8-awesome"
-homepage = "https://pypi.org/project/flake8-awesome"
+repository = "https://github.com/jaustinpage/flake8-aggressive"
+homepage = "https://pypi.org/project/flake8-aggreessive"
 keywords = ['flake8', 'plugin']
 
 [tool.poetry.dependencies]
